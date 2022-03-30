@@ -11,3 +11,5 @@ Following this kind of tutorial gives a playful side to learning programming, wh
   - Pictures: https://opengameart.org/content/platformer-art-pixel-edition
 
 ClearCode also offers other tutorials for Python: https://www.youtube.com/c/ClearCode/videos.
+
+Comments in the code are in French, soon to be translated.
