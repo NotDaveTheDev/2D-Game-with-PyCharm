@@ -1,11 +1,13 @@
 # 2D-Game-with-PyCharm
 
-J'apprends en ce moment à coder avec Python en suivant ce tuto orienté PyCharm : https://www.youtube.com/watch?v=AY9MnQ4x3zk&t=6494s.
+I'm currently learning to code with Python following this PyCharm tutorial: https://www.youtube.com/watch?v=AY9MnQ4x3zk&t=6494s.
 
-Le but n'est pas tant de créer le prochain titre AAA (d'une part, C est plus adapté, d'autre part, il suffit de surveiller le marché du jeu vidéo pour constater que ça ne marcherait pas) que d'assimiler la logique derrière Python, PyCharm et le codage de jeu vidéo. L'avantage de suivre ce genre de tuto réside dans le fait de donner un côté ludique à l'apprentissage de la programmation, qui peut vite se révéler frustrant. Une fois terminé, j'aurai donc toutes les clés pour coder mes propres petits programmes et autres joyeusetés en 2D.
+The goal is not so much to create the next AAA title (on one hand, C is more suitable, on the other hand, this is not what the video game market wants) but to assimilate the logic behind Python, PyCharm and video game coding.
 
-  - Source originale du code : https://github.com/clear-code-projects/UltimatePygameIntro
-  - Son : https://opengameart.org/content/5-chiptunes-action
-  - Images : https://opengameart.org/content/platformer-art-pixel-edition
+Following this kind of tutorial gives a playful side to learning programming, which can quickly become frustrating. Once finished, I will have all the keys to code my own little programs and other 2D thingies.
 
-ClearCode propose également d'autres tutos pour Python : https://www.youtube.com/c/ClearCode/videos.
+  - Original code source: https://github.com/clear-code-projects/UltimatePygameIntro
+  - Sound: https://opengameart.org/content/5-chiptunes-action
+  - Pictures: https://opengameart.org/content/platformer-art-pixel-edition
+
+ClearCode also offers other tutorials for Python: https://www.youtube.com/c/ClearCode/videos.
